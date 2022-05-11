@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 May 2022 21:45:07 at https://www.theiptv.store/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.theiptv.store/ -O1 "C:\My Web Sites\ip1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:45:45	Error: 	"Not Found" (404) at link https://www.theiptv.store/"/-_-/res/b09cf76d-2972-451a-8e07-8e8f07105657/images/files/b09cf76d-2972-451a-8e07-8e8f07105657/4445acfb-dfae-4bcc-af00-c240bf5ebebe/2000-1333/1c041f27c53f6947cf76510995523c836d217044" (from https://www.theiptv.store/)
+21:45:47	Error: 	"Not Found" (404) at link https://www.theiptv.store/"/-_-/res/b09cf76d-2972-451a-8e07-8e8f07105657/images/files/b09cf76d-2972-451a-8e07-8e8f07105657/20c611ca-e549-4e63-9cf8-f2f8b2c7147f/2000-1125/b304a30b819876d51412f92830a24ca0be901223" (from https://www.theiptv.store/)
+21:45:48	Error: 	"Not Found" (404) at link https://www.theiptv.store/Trident/ (from https://www.theiptv.store/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 seconds : 148 links scanned, 144 files written (6461695 bytes overall) [4978867 bytes received at 121435 bytes/sec], 3012386 bytes transferred using HTTP compression in 74 files, ratio 47%, 14.8 requests per connection
+(3 errors, 0 warnings, 0 messages)
